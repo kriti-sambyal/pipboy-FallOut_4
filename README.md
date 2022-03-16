@@ -1,2 +1,2 @@
 # pipboy-FallOut_4
-created using HTML CSS JS
+created using HTML CSS
